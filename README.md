@@ -1,1 +1,1 @@
-# Task-
+List merupakan sekumpulan data yang terdapat dalam suatu variabel, jika di dalam bahasa pemograman C/C++ dan Java terdapat array sebagai sekumpulan data dengan tipe yang sama dan tersimpan dalam suatu variabel,  maka dalam python terdapat list yang menggantikan array. List ditandai dengan tanda kurung []. Jadi data-data dalam suatu list diapit oleh tanda kurung tersebut.
